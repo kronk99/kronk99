@@ -1,6 +1,9 @@
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IyZWs4aTV3YWx2Z3d1ODBpaWQ2eWtrczU0eTE1cHBhZWZ5NmZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yTFemEJxmeW2YLOT6p/giphy.gif" width="200"/> Bienvenid@ a  mi GitHub.
 ### ¡Gusto en conocerte!
 Soy estudiante de ingenieria en computadores (CE) . Me apasiona la programación, la electrónica, lo relacionado con arquitectura de computadores y áreas afines, he trabajado con varias herramientas y múltiples lenguajes de programación , así como microcontroladores y componentes electrónicos, System Verilog ,ensamblador(RISV ARM X86), entre otros. El aprendizaje contínuo y la experimentación son parte fundamental de mi ámbito laboral.
+
+---
+
 ### Herramientas y lenguajes con los que he trabajado
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -16,6 +19,18 @@ Soy estudiante de ingenieria en computadores (CE) . Me apasiona la programación
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Principales proyectos
+
+Proyectos de la universidad en los que he trabajado:
+
+| Proyecto                            | Breve descripción                                               | Enlace                            |
+|-------------------------------------|------------------------------------------------------------------|-----------------------------------|
+| Simulador MP con interconnect | Abstraccion de un modelo multiprocesador con un sistema de interconnect para la comunicación con los diferentes procesadores| [Repositorio](https://github.com/EmilioTec10/Proyecto1-Arquitectura2) |
+| Procesador en Verilog                | Diseño de arquitectura básica en FPGA                            | [Repositorio](https://github.com/LuisGonzalez/Verilog-Processor) |
+| CV con LaTeX ATS-friendly           | CV técnico con estructura optimizada para ATS                    | [Repositorio](https://github.com/LuisGonzalez/CV-LaTeX) |
+
+---
 
 ### Contacto
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVnOTZieWsyNWQ4b2F5ZTA5bXdmbXJ5c25qMW9yNDFtcWFjM2s0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZRdyomzP2EnsnkBGJS/giphy.gif" width="100"/> 

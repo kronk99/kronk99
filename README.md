@@ -25,11 +25,11 @@ Soy estudiante de ingenieria en computadores (CE) . Me apasiona la programación
 
 | Proyecto                            | Breve descripción                                               | Enlace                            |
 |-------------------------------------|------------------------------------------------------------------|-----------------------------------|
-| Simulador MP con interconnect | Abstraccion de un modelo multiprocesador con un sistema de interconnect para la comunicación con los diferentes procesadores| [Repositorio](https://github.com/EmilioTec10/Proyecto1-Arquitectura2) |
-| Assembly-Based Text Frequency Analyzer            |  programa contador de palabras frecuentes en textos grandes, realizado en x86 y Python con matplotlib para visualizar los resultados |[Repositorio](https://github.com/kronk99/proyecto1arqui1) |
-| InterruptRacer            | Juego de carreras en NASM X86 con interrupciones de teclado                            | [Repositorio](https://github.com/kronk99/Grand_track_TEC) |
-| PacManCE               | Recreación del juego pacman, movimiento de enemigos con algoritmo de pathfinding                            | [Repositorio](https://github.com/kronk99/PacmanMobile) |
-| SpaceInvaders          | Recreación del juego SpaceInvaders en Python                   | [Repositorio](https://github.com/kronk99/SpaceInvaders) |
+|:computer: Simulador MP con interconnect :train:| Abstraccion de un modelo multiprocesador con un sistema de interconnect para la comunicación con los diferentes procesadores| [Repositorio](https://github.com/EmilioTec10/Proyecto1-Arquitectura2) |
+|:books: Assembly-Based Text Frequency Analyzer   :computer:         |  programa contador de palabras frecuentes en textos grandes, realizado en x86 y Python con matplotlib para visualizar los resultados |[Repositorio](https://github.com/kronk99/proyecto1arqui1) |
+| InterruptRacer    :blue_car:   :red_car:     | Juego de carreras en NASM X86 con interrupciones de teclado                            | [Repositorio](https://github.com/kronk99/Grand_track_TEC) |
+|:video_game: PacManCE  :star:             | Recreación del juego pacman, movimiento de enemigos con algoritmo de pathfinding                            | [Repositorio](https://github.com/kronk99/PacmanMobile) |
+|:alien: SpaceInvaders :space_invader:         | Recreación del juego SpaceInvaders en Python                   | [Repositorio](https://github.com/kronk99/SpaceInvaders)|
 
 ---
 
